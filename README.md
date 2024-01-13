@@ -1,7 +1,7 @@
 [![MasterHead](https://gifdb.com/gif/glitching-hacker-hacking-v56g4l1vaykmsno6.html)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yashu</h1>
 <h3 align="center">A passionate Pentration tester from India</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/t3-hrq8RCMbl2-c60zCz4AH8ffJYL3L5Fs0gKlMsbVk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY3liZXIt/Y2l0eS1yYWluaW5n/LXBpeGVsLWFydC1k/aTJzMW44cXFucG1u/NnJiLmdpZg.gif>
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/yGqzyxG4PKPv8vgDnciG-50vPxRgYcJahsAboNbP_Qo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdDMu/ZGVwb3NpdHBob3Rv/cy5jb20vNTk0Mzc0/Mi8xMjY1OC9pLzYw/MC9kZXBvc2l0cGhv/dG9zXzEyNjU4MjU2/Mi1zdG9jay1waG90/by1oYWNrZXItaW5m/aWx0cmF0ZXMtdGhl/LWludGVybmV0LW9m/LmpwZw>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wraithhitek&label=Profile%20views&color=0e75b6&style=flat" alt="wraithhitek" /> </p>
