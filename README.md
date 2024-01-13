@@ -1,7 +1,7 @@
-[![MasterHead](https://gifdb.com/gif/glitching-hacker-hacking-v56g4l1vaykmsno6.html)]
+[![MasterHead](https://gifdb.com/gif/glitching-hacker-hacking-v56g4l1vaykmsno6.html)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yashu</h1>
 <h3 align="center">A passionate Pentration tester from India</h3>
-(img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/cyber-city-raining-pixel-art-di2s1n8qqnpmn6rb.html")
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/cyber-city-raining-pixel-art-di2s1n8qqnpmn6rb.html">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wraithhitek&label=Profile%20views&color=0e75b6&style=flat" alt="wraithhitek" /> </p>
@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/hitekwraith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hitekwraith" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yashu tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashu tiwari" height="30" width="40" /></a>
-<a href="https://instagram.com/yashu.tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashu.tiwari" height="30" width="40" /></a>
+<a href="https://instagram.com/yashu._tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashu.tiwari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
