@@ -1,7 +1,7 @@
 [![MasterHead](https://gifdb.com/gif/glitching-hacker-hacking-v56g4l1vaykmsno6.html)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yashu</h1>
 <h3 align="center">A passionate Pentration tester from India</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/cyber-city-raining-pixel-art-di2s1n8qqnpmn6rb.html">
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/t3-hrq8RCMbl2-c60zCz4AH8ffJYL3L5Fs0gKlMsbVk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY3liZXIt/Y2l0eS1yYWluaW5n/LXBpeGVsLWFydC1k/aTJzMW44cXFucG1u/NnJiLmdpZg.gif>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wraithhitek&label=Profile%20views&color=0e75b6&style=flat" alt="wraithhitek" /> </p>
